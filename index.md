@@ -4,20 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ... IDLab/imec TK2 FWO
+I am a Ph.D. student at the [T2K research group](https://ugentt2k.github.io/) at [IDLab](https://www.ugent.be/ea/idlab/en) Ghent. Currently, my research focuses on causal machine learning, more specifically finding ways to include causal expert knowledge in deep learning models. I am especially interested in applying these ideas to practical use-cases in healthcare, to improve trustworthiness and interpretability of clinical decision support systems. My research is funded by [FWO Flanders](https://www.fwo.be/en/). 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Causal Machine Learning**: causal neural networks, partial causal discovery, causal inference with bayesian networks
+- **ML for healthcare**: clinical decision support systems, injection of expert knowledge into ML models
+- **Natural Language Processing**: information extraction from unstructured clinical notes 
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
