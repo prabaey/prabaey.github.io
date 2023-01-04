@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at ... IDLab/imec TK2 FWO
 
 ## Research Interests
 
