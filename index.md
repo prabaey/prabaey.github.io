@@ -13,4 +13,5 @@ I am a Ph.D. student at the [T2K research group](https://ugentt2k.github.io/) at
 - **Causal Machine Learning**: causal neural networks, partial causal discovery, causal inference with Bayesian networks
 - **Natural Language Processing**: information extraction from unstructured clinical notes 
 
+{% include_relative _includes/talks.md %}
 {% include_relative _includes/publications.md %}
