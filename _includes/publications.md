@@ -13,7 +13,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2403.09481">Clinical Reasoning over Tabular Data and Text with Bayesian Networks</a></div>
     <div class="author"><strong>Paloma Rabaey</strong>, Johannes Deleu, Stefan Heytens, Thomas Demeester</div>
-    <div class="periodical"><em> Arxiv, 2024.</em></div>
+    <div class="periodical"><em> 22nd International Conference on Artificial Intelligence in Medicine (AIME), 2024</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2403.09481" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/prabaey/bn-text" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
