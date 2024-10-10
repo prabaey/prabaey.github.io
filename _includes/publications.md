@@ -18,6 +18,29 @@
       <a href="https://arxiv.org/abs/2403.09481" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/prabaey/bn-text" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="{{ site.pres_link_BN_text }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Presentation</a>
+      <a href="{{ site.poster_link_BN_text }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      <!-- <strong><i style="color:#e74d3c">Poster Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/UAI_image.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://proceedings.mlr.press/v244/decruyenaere24a.html">The Real Deal Behind the Artificial Appeal: Inferential Utility of Tabular Synthetic Data</a></div>
+    <div class="author">Alexander Decruyenaere, Heidelinde Dehaene, <strong>Paloma Rabaey</strong>, Christiaan Polet, Johan Decruyenaere, Stijn Vansteelandt, Thomas Demeester</div>
+    <div class="periodical"><em> 40th Conference on Uncertainty in Artificial Intelligence, 2024 </em></div>
+    <div class="links">
+      <a href="https://proceedings.mlr.press/v244/decruyenaere24a.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/syndara-lab/inferential-utility" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="{{ site.pres_link_UAI }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Presentation</a>
+      <a href="{{ site.poster_link_UAI }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <!-- <strong><i style="color:#e74d3c">Poster Presentation</i></strong> -->
     </div>
   </div>
