@@ -13,7 +13,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2409.08936">SynSUM – Synthetic Benchmark with Structured and Unstructured Medical Records</a></div>
     <div class="author"><strong>Paloma Rabaey</strong>, Henri Arno, Stefan Heytens, Thomas Demeester</div>
-    <div class="periodical"><em> AAAI 2025 Workshop on Large Language Models and Generative AI for Health </em></div>
+    <div class="periodical"><em> AAAI 2025 Workshop on Large Language Models and Generative AI for Health (GenAI4Health) </em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2409.08936" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/prabaey/synsum" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -95,7 +95,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2403.09481">Clinical Reasoning over Tabular Data and Text with Bayesian Networks</a></div>
     <div class="author"><strong>Paloma Rabaey</strong>, Johannes Deleu, Stefan Heytens, Thomas Demeester</div>
-    <div class="periodical"><em> 22nd International Conference on Artificial Intelligence in Medicine (AIME), 2024</em></div>
+    <div class="periodical"><em> 22nd International Conference on Artificial Intelligence in Medicine (AIME 2024)</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2403.09481" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/prabaey/bn-text" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -117,7 +117,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://proceedings.mlr.press/v244/decruyenaere24a.html">The Real Deal Behind the Artificial Appeal: Inferential Utility of Tabular Synthetic Data</a></div>
     <div class="author">Alexander Decruyenaere, Heidelinde Dehaene, <strong>Paloma Rabaey</strong>, Christiaan Polet, Johan Decruyenaere, Stijn Vansteelandt, Thomas Demeester</div>
-    <div class="periodical"><em> 40th Conference on Uncertainty in Artificial Intelligence, 2024 </em></div>
+    <div class="periodical"><em> 40th Conference on Uncertainty in Artificial Intelligence (UAI 2024) </em></div>
     <div class="links">
       <a href="https://proceedings.mlr.press/v244/decruyenaere24a.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/syndara-lab/inferential-utility" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -139,7 +139,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1186/s13030-024-00305-9">Time-dependent complexity characterisation of activity patterns in patients with Chronic Fatigue Syndrome</a></div>
     <div class="author"><strong>Paloma Rabaey</strong>, Peter Decat, Stefan Heytens, Dirk Vogelaers, An Mariman, Thomas Demeester</div>
-    <div class="periodical"><em> <strong>BioPsychoSocial Medicine</strong> 18 (10), 2024.</em></div>
+    <div class="periodical"><em> <strong>BioPsychoSocial Medicine</strong> 18 (10), 2024</em></div>
     <div class="links">
       <a href="https://doi.org/10.1186/s13030-024-00305-9" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/prabaey/time-dependent-complexity" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -159,7 +159,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2312.07837">Synthetic Data: Can We Trust Statistical Estimators?</a></div>
     <div class="author">Alexander Decruyenaere, Heidelinde Dehaene, <strong>Paloma Rabaey</strong>, Christiaan Polet, Johan Decruyenaere, Stijn Vansteelandt, Thomas Demeester</div>
-    <div class="periodical"><em> NeurIPS 2023 Workshop on Deep Generative Models for Health <strong>(DGM4Health)</strong>, 2023.</em></div>
+    <div class="periodical"><em> NeurIPS 2023 Workshop on Deep Generative Models for Health (DGM4Health)</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2312.07837" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/syndara-lab/inferential-utility-workshop" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -180,7 +180,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2211.08243">Neural Bayesian Network Understudy</a></div>
     <div class="author"><strong>Paloma Rabaey</strong>, Cedric De Boom, Thomas Demeester</div>
-    <div class="periodical"><em> NeurIPS 2022 Workshop on Causal Machine Learning for Real-World Impact<strong>(CML4Impact)</strong>, 2022.</em></div>
+    <div class="periodical"><em> NeurIPS 2022 Workshop on Causal Machine Learning for Real-World Impact (CML4Impact)</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2211.08243.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/prabaey/NBN-understudy" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -201,7 +201,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://aclanthology.org/2021.mtsummit-at4ssl.10/">Frozen pretrained transformers for neural sign language translation</a></div>
     <div class="author">Mathieu De Coster, Karel D'Oosterlinck, Marija Pizurica, <strong>Paloma Rabaey</strong>, Severine Verlinden, Mieke Van Herreweghe, Joni Dambre</div>
-    <div class="periodical"><em> Proceedings of the 1st International Workshop on Automatic Translation for Signed and Spoken Languages <strong> (AT4SSL)</strong>, 2021.</em></div>
+    <div class="periodical"><em> ACL 2021 Workshop on Automatic Translation for Signed and Spoken Languages (AT4SSL).</em></div>
     <div class="links">
       <a href="https://aclanthology.org/2021.mtsummit-at4ssl.10.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/m-decoster/fpt4slt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
