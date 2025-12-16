@@ -18,4 +18,8 @@ I am a Ph.D. student at the [T2K research group](https://ugentt2k.github.io/) at
 - **Clinical Reasoning over Tabular Data and Text with Bayesian Networks**. Oral presentation at the 2024 Conference of Artificial Intelligence in Medicine (AIME), in Salt Lake City, Utah. <a href="{{ site.pres_link_BN_text }}">[Slides]</a>
 - **Why we need Neuro-Symbolic Methods for Clinical Information Extraction**. Oral presentation at the Workshop "Primary Care: Electronic Scribes and More" at the 2024 Conference of Artificial Intelligence in Medicine (AIME), in Salt Lake City, Utah. <a href="{{ site.pres_link_BN_CIE }}">[Slides]</a>
 
+## Science Communication
+
+**Dokter Chatbot**. Blog post in Dutch, written for popular science magazine EOS. [[Blog post]](https://www.eoswetenschap.eu/technologie/dokter-chatbot)
+
 {% include_relative _includes/publications.md %}
