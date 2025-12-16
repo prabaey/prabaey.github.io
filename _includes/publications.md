@@ -7,11 +7,71 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/patient_level_IE.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2511.17056">Patient-level Information Extraction by Consistent Integration of Textual and Tabular Evidence with Bayesian Networks</a></div>
+    <div class="author"><strong>Paloma Rabaey*</strong>, Adrick Tench*, Stefan Heytens, Thomas Demeester</div>
+    <div class="periodical"><em> ArXiv preprint </em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2511.17056" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/AdrickTench/patient-level-IE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <strong><i style="color:#e74d3c">Poster Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/radiology_uncertainty.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2511.04506">Modeling Clinical Uncertainty in Radiology Reports: from Explicit Uncertainty Markers to Implicit Reasoning Pathways</a></div>
+    <div class="author"><strong>Paloma Rabaey*</strong>, Jong Hak Moon*, Jung-Oh Lee, Min Gwan Kim, Hangyul Yoon, Thomas Demeester, Edward Choi</div>
+    <div class="periodical"><em> ArXiv preprint </em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2511.04506" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/prabaey/lunguage_uncertainty" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <strong><i style="color:#e74d3c">Poster Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/lunguage.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2505.21190">Lunguage: A Benchmark for Structured and Sequential Chest X-Ray Interpretation</a></div>
+    <div class="author">Jong Hak Moon, Geon Choi, <strong>Paloma Rabaey</strong>, Min Gwan Kim, Hyuk Gi Hong, Jung-Oh Lee, Hangyul Yoon, Eun Woo Doe, Jiyoun Kim, Harshita Sharma, Daniel C. Castro, Javier Alvarez-Valle, Edward Choi</div>
+    <div class="periodical"><em> ArXiv preprint </em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2505.21190" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/SuperSupermoon/Lunguage" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <strong><i style="color:#e74d3c">Poster Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/synsum.png" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2409.08936">SynSUM – Synthetic Benchmark with Structured and Unstructured Medical Records</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2409.08936">SimSUM – Synthetic Benchmark with Structured and Unstructured Medical Records</a></div>
     <div class="author"><strong>Paloma Rabaey</strong>, Henri Arno, Stefan Heytens, Thomas Demeester</div>
     <div class="periodical"><em> AAAI 2025 Workshop on Large Language Models and Generative AI for Health (GenAI4Health) </em></div>
     <div class="links">
