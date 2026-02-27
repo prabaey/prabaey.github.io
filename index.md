@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. student at the [T2K research group](https://ugentt2k.github.io/) at [IDLab](https://www.ugent.be/ea/idlab/en) Ghent. My research focuses on finding ways to include expert knowledge in deep learning models to make them more reliable for critical settings. I am especially interested in applying these ideas to practical use-cases in healthcare, to improve trustworthiness and interpretability of clinical decision support systems. My research is funded by [FWO Flanders](https://www.fwo.be/en/). In my free time I love to crochet, travel, read and go to the cinema, among many other things. 
 
-In February 2026, I defended my PhD on the topic of augmenting Bayesian networks with textual evidence for expert-based, uncertainty-aware clinical decision support. You can read the full dissertation [here](site.link_dissertation)!
+In February 2026, I defended my PhD on the topic of augmenting Bayesian networks with textual evidence for expert-based, uncertainty-aware clinical decision support. You can read the full dissertation [here](https://prabaey.github.io/assets/files/phd_dissertation.pdf)!
 
 ## Research Interests
 
