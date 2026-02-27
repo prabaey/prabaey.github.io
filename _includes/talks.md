@@ -7,6 +7,23 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/public_defense.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Augmenting Bayesian Networks with Textual Evidence for Expert-Based, Uncertainty-Aware Clinical Decision Support</a></div>
+    <div class="author">Public PhD Defense</div>
+    <div class="links">
+      <a href="{{ site.pres_link_public_defense }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Presentation</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/bn_text_pres_image.png" class="teaser img-fluid z-depth-1">
   </div>
 

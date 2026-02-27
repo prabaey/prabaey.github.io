@@ -13,6 +13,7 @@ email: paloma (dot) rabaey (at) gmail (dot) com
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=0gTH1bUAAAAJ&hl=en
+link_dissertation: assets/files/phd_dissertation.pdf
 poster_link_NBN: assets/files/poster_neurips.pdf
 poster_link_syndara: assets/files/poster_syndara.pdf
 poster_link_BN_text: assets/files/poster_PGMs.pdf
@@ -20,9 +21,11 @@ poster_link_UAI: assets/files/poster_UAI.pdf
 pres_link_BN_text: assets/files/presentation_AIME.pptx
 pres_link_BN_CIE: assets/files/presentation_workshop_AIME.pptx
 pres_link_UAI: assets/files/presentation_UAI.pdf
+pres_link_public_defense: assets/files/public_defense.pptx
 poster_link_syndara_neurips: assets/img/syndara_neurips_2024_poster.png
 poster_link_AAAI: assets/files/poster_AAAI_GenAI4Health.pdf
 poster_link_AAAI_max: assets/files/poster_AAAI_Imageomics.pdf
+poster_link_radiology_uncertainty: assets/files/poster_radiology_uncertainty.pdf
 github_link: https://github.com/prabaey/
 linkedin: https://www.linkedin.com/in/paloma-rabaey-3a29091a2
 
